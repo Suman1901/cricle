@@ -600,7 +600,7 @@ nav{
 }
 
 .adv-img-box{
-    margin-top: auto;
+    /* margin-top: auto; */
 }
 
 /* drive-impact */
@@ -1072,7 +1072,69 @@ nav{
     color: #9B9B9B;
 }
 @media screen and (min-width:1025px) and (max-width:1366px){
-    
+    header {
+        padding: 15px 40px;
+    }
+    .customer{
+        padding: 0 120px;
+    }
+    .add-img-box{
+        width: auto;
+    }
+    .our-customer .o-cus{
+        margin: 60px auto 11px auto;
+    }
+    .line{
+        margin: 75px auto 0 auto;
+        width: auto;
+    }
+    .built-people {
+        padding: 48px 120px 0 120px;
+    }
+    .love-customer{
+        padding: 50px 120px 0 120px;
+    }
+    .powerful{
+        padding: 0 220px;
+    }
+    .built-for-people{
+        margin-top: 70px;
+    }
+    .create-line{
+        padding: 17px 0 0 185px;
+    }
+    .create-line .color-line{
+        width: 155px;
+    }
+    .advance-software{
+        padding: 48px 120px;
+    }
+    .drive-impact{
+        padding: 80px 120px 0 120px;
+    }
+    .drive-impact-img {
+        margin-left: 60px;
+    }
+    .solution-box{
+        padding: 80px 120px 0 120px;
+    }
+    .stay-box{
+        display: none;
+    }
+    .footer{
+        padding: 48px 120px;
+    }
+    .footer-up-sec{
+        padding-bottom: 70px;
+    }
+    .footer-color-text {
+        padding: 100px 100px;
+    }
+    .footer-up-sec .foot-color-text{
+        left: 19%;
+    }
+
+
 }
 @media screen and (min-width:769px) and (max-width:1024px){
     header {
@@ -1184,8 +1246,112 @@ nav{
         width: 135px;
     }
     .advance-software{
-        
+        padding: 25px;
+        align-items: center;
     }
+    .adv-create {
+        font-size: 25px;
+    }
+    .adv-soft-text {
+        margin-top: 10px;
+        font-size: 17px;
+    }
+    .advance-software .adv-r-text-box{
+        width: 340px;
+    }
+    .adv-text-box .adv-text{
+        line-height: 22px;
+        font-size: 15px;
+    }
+    .adv-start-button{
+        padding: 11px 15px;
+        font-size: 14px;
+    }
+    .adv-img-box{
+        width: 365px;
+        /* margin: auto; */
+    }
+    .drive-impact{
+        padding: 25px 25px 0 25px;
+    }
+    .drive-content{
+        align-items: center;
+    }
+    .drive-impact .testimonials {
+        margin-top: 0;
+    }
+    .drive-imap-text{
+        font-size: 29px;
+        line-height: 30px;
+    }
+    .drive-study-button{
+        margin-top: 30px;
+        padding: 11px 15px;
+        font-size: 14px;
+    }
+    .drive-impact-img{
+        margin-left: 0;
+        width: 280px;
+    }
+    .play-button-box {
+        top: 45%;
+        left: 40%;
+        width: 55px;
+    }
+    .drive-impact-img-box .pay-pal-box {
+        padding: 10px;
+        right: -85%;
+    }
+    .pay-text-box .pay-text{
+        margin-top: 0;
+        line-height: 23px;
+    }
+    .solution-box{
+        padding: 50px 25px 0 25px;
+    }
+    .solution-head-text .solu-head-text{
+        font-size: 26px;
+    }
+    .solution-small-text .solu-text{
+        font-size: 15px;
+    }
+    .solution-box .more-conselt-box{
+        margin-top: 28px;
+    }
+    .more-button{
+        padding: 7px 15px;
+    }
+    .consult-button{
+        padding: 7px 15px;
+    }
+    .solution-img-box{
+        width: 320px;
+    }
+    .stay-box{
+        display: none;
+    }
+    .footer{
+        padding: 25px 35px 25px 25px;
+    }
+    .footer-up-sec{
+        padding-bottom: 50px;
+    }
+    .footer-color-text{
+        margin: 80px 0 0 50px;
+        padding: 0;
+    }
+    .footer-up-sec .foot-color-text{
+        /* width: 207px; */
+        top: 30px;
+        left: -32px;
+    }
+    .footer-lower-sec .copyright-text{
+        font-size: 10px;
+    }
+    .f-pvc-trem a{
+        font-size: 10px;
+    }
+
 
 }
 @media screen and (min-width:540px) and (max-width:768px){
